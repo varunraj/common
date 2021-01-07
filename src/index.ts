@@ -2,7 +2,7 @@
 // We will write the common module in TS and publish as js
 // to avoid TS version dependecies in the projects that will use 
 // this common module.
-
+// 
 
 export * from './errors/bad-request-error';
 export * from './errors/custom-error'
